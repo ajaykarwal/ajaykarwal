@@ -4,4 +4,4 @@ I'm a creative front-end developer and user interface designer from Northampton,
 
 I've worked with some amazing clients including BP, HSBC, Thames Water, BT, Caterpillar, Ministry of Sound, and [many more](https://ajaykarwal.com/portfolio/).
 
-Check out some of my [other content](https://ajaykarwal.com/links/).
+Find out more at [ajaykarwal.com](https://ajaykarwal.com).
